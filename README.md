@@ -1,4 +1,4 @@
 # wisc_pal
-an R color palette inspired by sports teams from america's dairyland
+a color palette inspired by the sports teams of america's dairyland
 
 ![Image](wisc_pal.png)
